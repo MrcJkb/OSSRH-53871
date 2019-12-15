@@ -1,1 +1,1 @@
-https://github.com/MrcJkb/OSSRH-53871
+https://issues.sonatype.org/browse/OSSRH-53871
